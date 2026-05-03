@@ -17,7 +17,7 @@ pre: " <b> 1.5. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu về AWS S3    <br> **Thực hành:** <br>&emsp; + Thiết lập website tĩnh cho AWS S3 và áp dụng Amazon CloudFront cho S3                                                                                  | 06/04/2026   | 06/04/2026      |https://000057.awsstudygroup.com/
+| 2   | - Thống nhất đề tài <br> - Tìm hiểu về AWS S3    <br> **Thực hành:** <br>&emsp; + Thiết lập website tĩnh cho AWS S3 và áp dụng Amazon CloudFront cho S3                                                                                  | 06/04/2026   | 06/04/2026      |https://000057.awsstudygroup.com/
 | 4   | - Tìm hiểu về SNS <br> **Thực hành:** <br>&emsp; + Thiết lập SNS bằng giao diện, terraform                                           | 08/04/2026   | 08/04/2026      | https://000077.awsstudygroup.com/ |
 | 6   | - Tìm hiểu về SQS, AWS Lambda <br>  **Thực hành:** <br>&emsp; + Thiết lập SQS bằng giao diện, terraform , kết nối SQS với  SNS thông qua AWS Lambda                                        | 10/04/2026   | 10/04/2026      | https://000077.awsstudygroup.com/ |
 
