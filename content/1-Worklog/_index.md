@@ -5,35 +5,21 @@ weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
+I have completed an 8-week internship program (approximately 2 months), strictly following the training roadmap for AWS and real-world project development.
+This worklog is presented on a weekly basis, recording the detailed process from getting started with cloud infrastructure to completing the final project:
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+**Week 1:** [Introduction to AWS services and Amazon IAM](1.1-week1/)
 
-**On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
+**Week 2:** [Learning about Amazon Virtual Private Cloud (VPC)](1.2-week2/)
 
-Typically, and as a standard, a worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
+**Week 3:** [Getting started with Amazon Elastic Compute Cloud (EC2)](1.3-week3/)
 
-**Week 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
+**Week 4:** [Hands-on practice with EC2 and introduction to Terraform](1.4-week4/)
 
-**Week 2:** [Doing task A...](1.2-week2/)
+**Week 5:** [Creating a static website using Amazon Simple Storage Service (S3) and Amazon CloudFront](1.5-week5/)
 
-**Week 3:** [Doing task B...](1.3-week3/)
+**Week 6:** [Database interaction with Amazon DynamoDB, AWS Glue, and Amazon Athena](1.6-week6/)
 
-**Week 4:** [Doing task C...](1.4-week4/)
+**Week 7:** [User management with Amazon Cognito and project application deployment](1.7-week7/)
 
-**Week 5:** [Doing task D...](1.5-week5/)
-
-**Week 6:** [Doing task E...](1.6-week6/)
-
-**Week 7:** [Doing task G...](1.7-week7/)
-
-**Week 8:** [Doing task H...](1.8-week8/)
-
-**Week 9:** [Doing task I...](1.9-week9/)
-
-**Week 10:** [Doing task L...](1.10-week10/)
-
-**Week 11:** [Doing task M...](1.11-week11/)
-
-**Week 12:** [Doing task N...](1.12-week12/)
+**Week 8:** [Monitoring with CloudWatch, project completion, and report writing](1.8-week8/)
