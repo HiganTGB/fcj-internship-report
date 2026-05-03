@@ -1,4 +1,4 @@
-baseURL = "https://higantgb.github.io/fcj-internship-report//"
+baseURL = "https://higantgb.github.io/fcj-internship-report/"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "en"
