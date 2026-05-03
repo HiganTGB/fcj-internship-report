@@ -6,41 +6,24 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
-> Trong phần này, các bạn cần liệt kê và mô tả chi tiết các sự kiện (event) mà mình đã tham gia trong suốt quá trình thực tập hoặc làm việc. 
-> 
-> Mỗi sự kiện nên được trình bày theo định dạng Event 1, Event 2, Event 3…, kèm theo các thông tin:
-> * Tên sự kiện
-> * Thời gian tổ chức
-> * Địa điểm (nếu có)
-> * Vai trò của bạn trong sự kiện (người tham dự, hỗ trợ tổ chức, diễn giả, v.v.)
-> * Mô tả ngắn gọn nội dung và hoạt động chính trong sự kiện
-> * Kết quả hoặc giá trị đạt được (bài học, kỹ năng mới, đóng góp cho nhóm/dự án)
-> * Việc liệt kê này giúp thể hiện rõ sự tham gia thực tế của bạn, cũng như các kỹ năng mềm và kinh nghiệm bạn đã tích lũy qua từng sự kiện.
-
-
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
-
-### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
-
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
-
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
-
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
+Trong quá trình thực tập, em đã tham gia 1 event và có được một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
 
 
 
-### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
-
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
-
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
-
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
-
+### Event 1
+*   **Tên sự kiện:** AWS First Cloud AI Journey Community Day 2026.
+*   **Thời gian tổ chức:** 09:00 ngày 21/03/2026.
+*   **Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh.
+*   **Vai trò trong sự kiện:** Người tham dự.
+*   **Hoạt động chính:**
+    *   Phân tích hiện trạng của sinh viên và nhu cầu thực tế từ thị trường lao động (thiếu kỹ năng mềm,...).
+    *   Chia sẻ về bài toán xây dựng nền tảng (Build Platform) và xu hướng chuyển đổi sang các Platform khác
+    *   Thảo luận về ứng dụng của **Generative AI** trong lĩnh vực **DevOps** và các công cụ hỗ trợ liên quan.
+    *   Giới thiệu mã nguồn mở **Langfuse** (tích hợp trên AWS) giúp các nhóm phát triển giám sát, đánh giá và gỡ lỗi (debug) các ứng dụng GenAI.
+    *   Hướng dẫn viết Map Repository tối ưu cho AI.
+*   **Kết quả hoặc giá trị đạt được:**
+    *   Cập nhật xu hướng AI trong DevOps và hiểu rõ hơn về cách vận hành của các ứng dụng Generative AI thông qua Langfuse.
+    *   Hiểu được khoảng cách giữa kiến thức nhà trường và yêu cầu thực tế của thị trường để có lộ trình học tập phù hợp.
+    *   Hiểu được quy trình triển khai Platform tư duy như một sản phẩm hướng đến Backend for Frontends
+    *   Nhận được những bài học quý giá từ các chuyên gia và có những khoảnh khắc giao lưu tuyệt vời cùng cộng đồng AWS.
