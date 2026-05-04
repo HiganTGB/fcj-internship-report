@@ -10,7 +10,7 @@ pre: " <b> 1.7. </b> "
 
 ### Mục tiêu tuần 7:
 
-* Tiếp tục với project.
+* Tiếp tục với đồ án.
 * Tìm hiểu về Amazon Elastic Container Service (ECS),Amazon Cognito.
 
 ### Các công việc cần triển khai trong tuần này:
